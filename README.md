@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan K</h1>
-<h3 align="center">A passionate frontend developer...</h3>
+<h3 align="center">A passionate MERN stack developer...</h3>
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **darshankgoudahnvr@gmail.com**
 
