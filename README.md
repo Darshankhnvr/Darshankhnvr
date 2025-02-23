@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan K</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on **Uber clone**
+
 
 - 📫 How to reach me **darshankgoudahnvr@gmail.com**
 
